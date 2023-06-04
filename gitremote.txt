@@ -3,4 +3,6 @@ using namespace std;
 int main(){
 cout << "Namaste duniya" << endl;
 cout << "Hello world" << endl;
+
+new change
 }
